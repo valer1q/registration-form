@@ -1,0 +1,146 @@
+.register__form{
+    background-color: var(--S4);
+    width: 576px;
+    height: 720px;
+    
+    margin-top: 239px; 
+    border-radius: 20px;
+}
+
+.form__title{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44.8px;
+}
+
+.name{
+    width: 486px;
+    height: 56px;
+    padding: 16px;
+    gap: 12px;
+}
+
+.f_name{
+    width: 203px;
+    margin-left: 45px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.l_name{
+    width: 203px;
+    margin-left: 16px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.email__container{
+    width: 486px;
+    height: 56px;
+    margin-left: 45px;
+    padding: 16px;
+    gap: 12px;
+}
+
+.email{
+    width: 454px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.password__container{
+    width: 486px;
+    height: 56px;
+    margin-left: 45px;
+    padding: 16px;
+    gap: 12px;
+}
+
+.password{
+    width: 418px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.eye_icon{
+    width: 20px;
+    height: 14px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.agree__container{
+    width: 486px;
+    height: 56px;
+    margin-left: 45px;
+    gap: 12px;
+}
+
+.agree__label{
+    width: 454px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.submit__button{
+    background-color: var(--S1);
+    width: 486px;
+    height: 56px;
+    margin-left: 45px;
+    padding: 8px;
+    border-radius: 8px;
+    gap: 10px;
+}
+
+.content__login{
+    width: 449px;
+    height: 164px;
+    margin-left: 63.5px;
+    gap: 32px;
+}
+
+.content__login__span{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: var(--gray);
+    gap: 24px;
+}
+
+.button_socials{
+    display: flex;
+    justify-content: center;
+    width: 449px;
+    height: 56px;
+    gap: 16px;
+}
+
+.google{
+    height: 56px;
+    border-radius: 12px;
+    border: 1px;
+    padding: 16px 24px 16px 24px;
+    gap: 12px;
+}
+
+.apple{
+    height: 56px;
+    border-radius: 12px;
+    border: 1px;
+    padding: 16px 24px 16px 24px;
+    gap: 16px;
+}
+
+.account__span{
+    display: flex;
+    justify-content: center;
+    color: var(--gray);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
