@@ -13,6 +13,7 @@
     font-weight: 600;
     font-size: 32px;
     line-height: 44.8px;
+    font-family: "Outfit", serif;
 }
 
 .name{
@@ -29,6 +30,7 @@
     margin-left: 45px;
     font-size: 16px;
     line-height: 24px;
+    font-family: "Outfit", serif;
 }
 
 .l_name{
@@ -38,6 +40,7 @@
     margin-left: 16px;
     font-size: 16px;
     line-height: 24px;
+    font-family: "Outfit", serif;
 }
 
 .email__container{
@@ -56,6 +59,7 @@
     width: 454px;
     font-size: 16px;
     line-height: 24px;
+    font-family: "Outfit", serif;
 }
 
 .password__container{
@@ -74,13 +78,15 @@
     width: 418px;
     font-size: 16px;
     line-height: 24px;
+    font-family: "Outfit", serif;
 }
 
 .eye_icon{
+    position: relative;
     width: 30px;
     height: 24px;
-    margin-top: 5px;
-    margin-left: 2px;
+    top: 6px;
+    left: 2px;
 }
 
 .agree__container{
@@ -94,6 +100,11 @@
     width: 454px;
     font-size: 16px;
     line-height: 24px;
+    font-family: "Outfit", serif;
+}
+
+.radio{
+    margin-left: 45px;
 }
 
 .submit__button{
@@ -104,6 +115,7 @@
     padding: 8px;
     border-radius: 8px;
     gap: 10px;
+    font-family: "Urbanist", serif;
 }
 
 .content__login{
@@ -111,6 +123,7 @@
     height: 164px;
     margin-left: 63.5px;
     gap: 32px;
+    font-family: "Outfit", serif;
 }
 
 .content__login__span{
@@ -155,6 +168,7 @@
     margin-bottom: 24px;
     background-color: white;
     border: 1px solid rgba(44, 50, 59, 0.1);
+    font-family: "Outfit", serif;
 }
 
 .account__span{
